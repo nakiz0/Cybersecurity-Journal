@@ -370,7 +370,7 @@ If no secondary DNS server exists, disable zone transfers completely.
 - The command commonly used is:
 
 ```bash
-dig axfr domain.com @dns-serve
+dig axfr domain.com @dns-server
 ```
 
 - Secure DNS servers restrict zone transfers to authorized hosts only.
