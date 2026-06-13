@@ -373,4 +373,4 @@ If no secondary DNS server exists, disable zone transfers completely.
 dig axfr domain.com @dns-server
 ```
 
-- Secure DNS servers restrict zone transfers to authorized hosts on
+- Secure DNS servers restrict zone transfers to authorized hosts onl
